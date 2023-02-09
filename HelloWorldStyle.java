@@ -1,6 +1,6 @@
-/** .
+/**
 * The HelloWorld program implements an application that
-* simply displays "Hello World!" to the standard output
+* simply displays "Hello World!" to the standard output.
 *
 * @author  Melody Berhane
 * @version 1.0
@@ -9,9 +9,9 @@
 
 public final class HelloWorldStyle {
 
-    /** .
+    /**
     * This is a private constructor used to satisfy the
-    * style checker
+    * style checker.
     *
     * @exception IllegalStateException Utility class.
     * @see IllegalStateException
@@ -20,8 +20,8 @@ public final class HelloWorldStyle {
         throw new IllegalStateException("Utility class");
     }
 
-    /** .
-    * Displays text to the terminal
+    /**
+    * Displays text to the terminal.
     *
     * @param args nothing passed in
     */
